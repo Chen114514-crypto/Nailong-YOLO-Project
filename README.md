@@ -15,11 +15,6 @@ Markdown
 
 一个基于 **YOLOv8** 训练的目标检测项目，专门用于识别和检测视频或图片中的 **“奶龙” (Nailong)** 形象。本项目包含了完整的数据处理、帧提取、训练脚本以及推理演示。
 
-> **效果演示**
-> 
-> ![Demo Result](assets/demo.jpg)
-> *(请确保在 assets 文件夹下放入一张名为 demo.jpg 的预测效果图)*
-
 ## 📂 项目结构
 
 ```text
@@ -108,5 +103,6 @@ MIT License
 
 1.  **图片链接**：如果不打算用 `demo.jpg`，记得把 README 里的 `![Demo Result](assets/demo.jpg)` 这一行删掉，否则 GitHub 上会显示一个“图片裂开”的图标。
 2.  **GitHub 用户名**：记得把模板里的 `[你的用户名]` 改成你真实的 ID。
+
 
 现在，你的项目看起来已经非常专业了！准备好 `git push` 了吗？
