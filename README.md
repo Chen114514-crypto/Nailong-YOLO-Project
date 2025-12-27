@@ -81,18 +81,3 @@ clean_data.py: 用于清洗数据集（例如删除损坏的图片或没有对�
 
 🤝 贡献 (Contributing)
 欢迎提交 Issue 或 Pull Request 来改进这个项目！
-
-📄 许可证 (License)
-MIT License
-
-
----
-
-### 💡 最后的检查清单
-
-1.  **图片链接**：如果不打算用 `demo.jpg`，记得把 README 里的 `![Demo Result](assets/demo.jpg)` 这一行删掉，否则 GitHub 上会显示一个“图片裂开”的图标。
-2.  **GitHub 用户名**：记得把模板里的 `[你的用户名]` 改成你真实的 ID。
-
-
-现在，你的项目看起来已经非常专业了！准备好 `git push` 了吗？
-
