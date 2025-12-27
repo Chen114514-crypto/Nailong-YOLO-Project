@@ -1,14 +1,3 @@
-📋 如何使用这份模板
-复制下面的代码块。
-
-粘贴到你项目根目录下的 README.md 文件中。
-
-替换掉方括号 [ ] 里的内容（比如你的 GitHub 用户名）。
-
-截图：记得把你那张效果最好的 demo.jpg 放到 assets/ 文件夹里，这样别人一进来就能看到效果。
-
-Markdown
-
 # Nailong Detector (基于 YOLOv8 的奶龙检测)
 
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-SOTA-blue) ![Python](https://img.shields.io/badge/Python-3.8%2B-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
@@ -106,3 +95,4 @@ MIT License
 
 
 现在，你的项目看起来已经非常专业了！准备好 `git push` 了吗？
+
