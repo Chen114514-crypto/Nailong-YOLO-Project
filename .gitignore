@@ -1,0 +1,22 @@
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略训练产生的日志文件夹 (防止不小心在本地跑训练后产生垃圾文件)
+runs/
+
+# 忽略大型权重文件 (超过100M GitHub会报错，如果 best.pt 小于 100M 可以注释掉这行)
+*.pt
+
+# 忽略本地数据集
+datasets/
+
+# 忽略 IDE 配置
+.idea/
+.vscode/
+
+# 忽略临时图片
+*.jpg
+*.png
+!demo.jpg  # 但是保留演示图
+!assets/*.jpg
